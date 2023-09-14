@@ -1,2 +1,2 @@
-# AdaptiveStaircase
-Lab Report
+# LabReports
+
